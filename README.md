@@ -1,4 +1,4 @@
-﻿﻿﻿# Breast-cancer-subtype-classification
+﻿# Breast-cancer-subtype-classification
 
 ## 目标
 使用基于表达谱的特征筛选方法与机器学习分类算法，构建乳腺癌亚型（如 PAM50）分类模型。至少使用两类课程方法：差异表达/统计检验与稀疏正则化特征筛选（例如 L1），并训练至少两种分类器（如随机森林、SVM）。
