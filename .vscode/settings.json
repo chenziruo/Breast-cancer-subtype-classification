@@ -1,0 +1,11 @@
+{
+    "r.rterm.windows": "D:/app/R-4.5.2/bin/R.exe",
+    "r.rpath.windows": "D:/app/R-4.5.2/bin/R.exe",
+    "r.rscript.windows": "D:/app/R-4.5.2/bin/Rscript.exe",
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true,
+    "r.alwaysUseActiveTerminal": true,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
+}
